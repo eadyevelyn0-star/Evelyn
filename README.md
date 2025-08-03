@@ -1,38 +1,22 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Evelyn Eady | Portfolio</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <header>
-    <h1>Evelyn Eady</h1>
-    <p>Creative Designer • Student • Future Innovator</p>
-  </header>
+# Evelyn Eady's Portfolio Website
 
-  <section class="about">
-    <h2>About Me</h2>
-    <p>I'm a high school senior with a passion for design, tech, and turning creative ideas into real-world impact.</p>
-  </section>
+This is a personal portfolio website to showcase my skills, experience, and creative projects.
 
-  <section class="projects">
-    <h2>Projects</h2>
-    <ul>
-      <li><strong>Trash to Treasure App:</strong> An app idea that promotes sustainable living by connecting users with free or low-cost items.</li>
-      <li><strong>Canva Designs:</strong> Event flyers, digital wallpapers, and business graphics.</li>
-      <li><strong>Hospitality Experience:</strong> Customer service at Chappy's Deli, McDonald's, and Crumbl.</li>
-    </ul>
-  </section>
+## 🌟 Features
+- Clean, responsive HTML/CSS layout
+- Highlight sections for About, Projects, and Contact
+- Easy to expand and customize
 
-  <section class="contact">
-    <h2>Contact</h2>
-    <p>Email: eadyevelyn0@gmail.com</p>
-    <p>Instagram: @theother_rib</p>
-  </section>
+## 💻 How to Use
+1. Clone this repository:2. Open `index.html` in your browser to view the site.
+3. Customize the content to match your style and projects.
+4. Deploy on [GitHub Pages](https://pages.github.com/) by enabling it in your repo settings.
 
-  <footer>
-    <p>© 2025 Evelyn Eady. All rights reserved.</p>
-  </footer>
-</body>
-</html>
+## 🚀 Goals
+- Showcase personal branding
+- Practice HTML/CSS
+- Use as a resume link for jobs and college
+
+---
+
+Made with 💜 by Evelyn Eady
